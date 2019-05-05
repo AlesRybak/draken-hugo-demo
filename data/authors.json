@@ -1,0 +1,34 @@
+{
+  "draken": {
+    "name": "Draken Brno",
+    "avatar": "/images/avatars/draken.png"
+  },
+  "tega": {
+    "name": "Terka Gajdůšková",
+    "avatar": "/images/avatars/tega.jpg"
+  },
+  "aldar": {
+    "name": "Aleš Rybák",
+    "avatar": "/images/avatars/aldar.jpg"
+  },
+  "madis": {
+    "name": "Petr Maděra",
+    "avatar": "/images/avatars/madis.jpg"
+  },
+  "zd": {
+    "name": "Zdenda Divina",
+    "avatar": "/images/avatars/zd.jpg"
+  },
+  "alca": {
+    "name": "Alena Vespalcová",
+    "avatar": "/images/avatars/alca.jpg"
+  },
+  "betka": {
+    "name": "Alžběta Kundratová",
+    "avatar": "/images/avatars/alca.jpg"
+  },
+  "slacha": {
+    "name": "Tom Slach",
+    "avatar": "/images/avatars/slacha.jpg"
+  }
+}
