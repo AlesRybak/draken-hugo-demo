@@ -1,4 +1,4 @@
-baseURL: http://localhost:1131
+baseURL: http://localhost:1313
 languageCode: en-us
 title: Draken Brno Demo Site
 theme: draken-hugo-theme
