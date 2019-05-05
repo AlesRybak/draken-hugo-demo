@@ -39,6 +39,7 @@ target
 test-coverage
 test-results
 tmp
+public
 
 
 ##
