@@ -1,0 +1,3 @@
+[submodule "themes/draken-hugo-theme"]
+	path = themes/draken-hugo-theme
+	url = git@github.com:AlesRybak/draken-hugo-theme.git
